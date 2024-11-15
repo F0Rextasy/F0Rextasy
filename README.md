@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  <img height="350" src="https://steamuserimages-a.akamaihd.net/ugc/1678121119960744195/3C9D9F2FB8AAAA0CB06D71D07E1D90F1D5CC9A8C/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"  />
+</div>
 
-<!--
-**F0Rextasy/F0Rextasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://t.me/aoembot_extasy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=F0Rextasy&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h1 align="center">Hey there 👋</h1>
+
+###
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=f0rextasy)
