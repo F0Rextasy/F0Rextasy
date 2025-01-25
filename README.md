@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://t.me/halilbb0" target="_blank">
+  <a href="https://t.me/bigbullsup" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=F0Rextasy&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
