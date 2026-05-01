@@ -1,19 +1,20 @@
-<div align="center">
-  <img height="350" src="https://steamuserimages-a.akamaihd.net/ugc/1678121119960744195/3C9D9F2FB8AAAA0CB06D71D07E1D90F1D5CC9A8C/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"  />
-</div>
+<h1 align="center">hey there 👋</h1>
 
-###
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fd2603a0-3d8e-4388-a704-489e27be27ef" width="100%" alt="wallpaper" />
+</p>
 
-<div align="center">
-  <a href="https://t.me/bigbullsup" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=F0Rextasy&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+<p align="center">
+  <a href="https://x.com/bigbullapp">
+    <img src="https://img.shields.io/badge/X-@bigbullapp-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-</div>
+</p>
 
-###
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=f0rextasy&theme=radical" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=f0rextasy&theme=radical" />
+</p>
 
-<h1 align="center">Hey there 👋</h1>
-
-###
-
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=f0rextasy)
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=f0rextasy&theme=radical" />
+</p>
