@@ -18,11 +18,11 @@
 ## 📊 By the numbers
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=F0Rextasy&theme=tokyonight" alt="GitHub stats">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=F0Rextasy&theme=tokyonight" alt="Repositories per language">
+  <img height="170" src="https://gh-readme-stats.vercel.app/api?username=F0Rextasy&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats">
+  <img height="170" src="https://gh-readme-stats.vercel.app/api/top-langs?username=F0Rextasy&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most used languages">
 </p>
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=F0Rextasy&theme=tokyonight&hide_border=true" alt="Commit streak">
+  <img height="150" src="https://streak-stats.demolab.com?user=F0Rextasy&theme=tokyonight&hide_border=true&background=1a1b27" alt="Commit streak">
 </p>
 
 ## 🛠 Stack
