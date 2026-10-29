@@ -2,11 +2,6 @@
 
 # F0Rextasy
 
-**Android · Kotlin · Python · TypeScript**
-
-I write Cloudstream providers for sites that never shipped an API,
-and small local tools that keep the rest of the stack honest.
-
 [![X](https://img.shields.io/badge/X-@BIGBULLapp-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BIGBULLapp)
 [![Telegram](https://img.shields.io/badge/Telegram-BigBull__App-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BigBull_App)
 [![Followers](https://img.shields.io/github/followers/F0Rextasy?style=for-the-badge&logo=github&label=FOLLOWERS&color=1f6feb&labelColor=1a1b26)](https://github.com/F0Rextasy?tab=followers)
@@ -30,24 +25,6 @@ and small local tools that keep the rest of the stack honest.
   <img width="70%" src="https://streak-stats.demolab.com?user=F0Rextasy&theme=tokyonight&hide_border=true" alt="Commit streak">
 </p>
 
-## 🚀 What I'm building
-
-| Project | What it is |
-| :-- | :-- |
-| **[bigbullapp-cs](https://github.com/F0Rextasy/bigbullapp-cs)** · Kotlin | Cloudstream provider collection — 56 site-specific modules for Turkish movies, series, anime and live TV. Every field comes from the site itself; nothing is invented. |
-| **[omp-laya-judge](https://github.com/F0Rextasy/omp-laya-judge)** · TypeScript | Local judge MCP server and skill for oh-my-pi — typed decisions in milliseconds, zero LLM tokens. |
-| **[bigbullui](https://github.com/F0Rextasy/bigbullui)** · TypeScript | 659 zero-dependency React 19 + Tailwind v4 components, 63 blocks, 1023 icons. Copy-paste or CLI, MIT. |
-| **[AoeM-Bot](https://github.com/F0Rextasy/AoeM-Bot)** · Python | Automation bot for Age of Empires Mobile. |
-
-## 📦 BigBull in Cloudstream
-
-Cloudstream → **Settings → Extensions → Add repository** and paste the URL below,
-or just type the short code **`bigbullapp`**.
-
-```text
-https://raw.githubusercontent.com/F0Rextasy/bigbullapp-cs/master/repo.json
-```
-
 ## 🛠 Stack
 
 <p align="center">
@@ -60,13 +37,3 @@ https://raw.githubusercontent.com/F0Rextasy/bigbullapp-cs/master/repo.json
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </p>
-
----
-
-<div align="center">
-  <sub>
-    Pac-Man graph by <a href="https://github.com/abozanona/pacman-contribution-graph">pacman-contribution-graph</a> ·
-    cards by <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">profile-summary-cards</a>
-    and <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a>
-  </sub>
-</div>
